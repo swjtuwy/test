@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chap7_config-client/chap7_config-client.iml" filepath="$PROJECT_DIR$/chap7_config-client/chap7_config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap7_config-server/chap7_config-server.iml" filepath="$PROJECT_DIR$/chap7_config-server/chap7_config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap7_config-server-eureka/chap7_config-server-eureka.iml" filepath="$PROJECT_DIR$/chap7_config-server-eureka/chap7_config-server-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configclient/configclient.iml" filepath="$PROJECT_DIR$/configclient/configclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign_eurekaserver/feign_eurekaserver.iml" filepath="$PROJECT_DIR$/feign_eurekaserver/feign_eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign_servicefeign/feign_servicefeign.iml" filepath="$PROJECT_DIR$/feign_servicefeign/feign_servicefeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix_servicefeign/hystrix_servicefeign.iml" filepath="$PROJECT_DIR$/hystrix_servicefeign/hystrix_servicefeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix_serviceribbon/hystrix_serviceribbon.iml" filepath="$PROJECT_DIR$/hystrix_serviceribbon/hystrix_serviceribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlinTest/kotlinTest.iml" filepath="$PROJECT_DIR$/kotlinTest/kotlinTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patterTest/patterTest.iml" filepath="$PROJECT_DIR$/patterTest/patterTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon_eurekaserver/ribbon_eurekaserver.iml" filepath="$PROJECT_DIR$/ribbon_eurekaserver/ribbon_eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon_servicehi/ribbon_servicehi.iml" filepath="$PROJECT_DIR$/ribbon_servicehi/ribbon_servicehi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon_serviceribbon/ribbon_serviceribbon.iml" filepath="$PROJECT_DIR$/ribbon_serviceribbon/ribbon_serviceribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spingcloud_configzookeeper/spingcloud_configzookeeper.iml" filepath="$PROJECT_DIR$/spingcloud_configzookeeper/spingcloud_configzookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springsimple01/springsimple01.iml" filepath="$PROJECT_DIR$/springsimple01/springsimple01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.iml" filepath="$PROJECT_DIR$/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul_servicezuul/zuul_servicezuul.iml" filepath="$PROJECT_DIR$/zuul_servicezuul/zuul_servicezuul.iml" />
+    </modules>
+  </component>
+</project>
